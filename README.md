@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [solving a tag issue with a webscrape](https://github.com/ColinSandidge/capstone)
 
-- 📄 Know about my experiences [https://github.com/ColinSandidge/about_me/blob/main/Colin_Sandidge_resume.pdf](https://github.com/ColinSandidge/about_me/blob/main/Colin_Sandidge_resume.pdf)
+- 📄 Know about my experiences: [resume](https://github.com/ColinSandidge/about_me/blob/main/Colin_Sandidge_resume.pdf)
 
 - 💬 Ask me about **my awesome roommates!**
 
