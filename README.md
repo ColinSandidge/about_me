@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **finding a full-time Data or Business Analyst position**
 
-- 🌱 I’m currently learning **about Key Performance Indicators**
+- 🌱 I’m currently learning **about KPIs**
 
 - 👯 I’m looking to collaborate on **visualizing health trends throughout the years**
 
